@@ -1,4 +1,4 @@
-# covid19_analysis_platzi
+# covid19_analysis
 #  Análisis de Covid 
 
 Este repositorio analiza información de distintos orígenes de datos.
